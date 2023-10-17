@@ -14,10 +14,12 @@
 
 
 ### Projects
+- [Improvised CRM](https://github.com/AntiWarCommittee/) written on Django during volunteering at NCO [The Ark](https://kovcheg.live/en/ark/). Allowed volunteers to manage students and foreign language teachers
 - [Online cinema](https://github.com/stranded-in-python/movix) developed with my teammates [Rahim](https://github.com/abdurahim-dag), [Viktor](https://github.com/Viktor-Gostyaikin), [Stanislav](https://github.com/SBKubric) during middle-developer [course](https://practicum.yandex.ru/middle-python/) by Yandex
 - [Advertisement Website](https://github.com/dogbusiness/craigav) written on Django
 - [To-do web app](https://github.com/dogbusiness/flask-todolist) written on Flask
 
+Note: CRM repository is no longer public. Sorry for inconvinience 😓
 
 ---
 ### Tools
