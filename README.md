@@ -2,7 +2,7 @@
 
 ### Contacts
 [![linkedin-badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/sergey-koltunov)
-[![gmail-badge](https://img.shields.io/badge/Gmail-white?style=for-the-badge)](https://hh.ru/resume/e6b0fbdeff08b47c450039ed1f746e54443552)
+[![gmail-badge](https://img.shields.io/badge/Gmail-white?style=for-the-badge)](mailto:sergey.koltunov.228@gmail.com)
 [![telegram-badge](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge)](https://hh.ru/resume/e6b0fbdeff08b47c450039ed1f746e54443552)
 [![hh-badge](https://img.shields.io/badge/headhunter-red?style=for-the-badge)](https://hh.ru/resume/e6b0fbdeff08b47c450039ed1f746e54443552)
 ---
@@ -29,6 +29,7 @@
 ![postgres](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 ![mongo](https://img.shields.io/badge/mongo-salad.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 ![redis](https://img.shields.io/badge/redis%20-%23CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 ![docker](https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![nginx](https://img.shields.io/badge/nginx-green.svg?&style=for-the-badge&logo=nginx&logoColor=white)
 ![django](https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
