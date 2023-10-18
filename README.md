@@ -3,7 +3,7 @@
 ### Contacts
 [![linkedin-badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/sergey-koltunov)
 [![gmail-badge](https://img.shields.io/badge/Gmail-white?style=for-the-badge)](mailto:sergey.koltunov.228@gmail.com)
-[![telegram-badge](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge)](https://hh.ru/resume/e6b0fbdeff08b47c450039ed1f746e54443552)
+[![telegram-badge](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge)](https://t.me/serg_serg228)
 [![hh-badge](https://img.shields.io/badge/headhunter-red?style=for-the-badge)](https://hh.ru/applicant/resumes/view?resume=70f4a185ff0c80b5b20039ed1f7a7558383968)
 ---
 
