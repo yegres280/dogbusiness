@@ -31,12 +31,13 @@ Note: CRM repository is no longer public. Sorry for inconvinience 😓
 ![mongo](https://img.shields.io/badge/mongo-salad.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 ![redis](https://img.shields.io/badge/redis%20-%23CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
+![Clickhouse](https://img.shields.io/badge/-Clickhouse-005571?style=for-the-badge&logo=clickhouse)
 ![docker](https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![nginx](https://img.shields.io/badge/nginx-green.svg?&style=for-the-badge&logo=nginx&logoColor=white)
 ![django](https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
 ![flask](https://img.shields.io/badge/flask%20-grey.svg?&style=for-the-badge&logo=flask&logoColor=white)
 ![fastapi](https://img.shields.io/badge/fastapi%20-%2313988a.svg?&style=for-the-badge&logo=fastapi&logoColor=white)
-![fastapi](https://img.shields.io/badge/databricks%20-red.svg?&style=for-the-badge&logo=databricks&logoColor=white)
+![databricks](https://img.shields.io/badge/databricks%20-red.svg?&style=for-the-badge&logo=databricks&logoColor=white)
 
 ---
 
