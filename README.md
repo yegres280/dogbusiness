@@ -21,6 +21,12 @@
 
 Note: CRM repository is no longer public. Sorry for inconvinience 😓
 
+### My fresh code examples
+These are last commited by me and primarly done by me
+- [API for UGC](https://github.com/stranded-in-python/movix-ugc/tree/main/src)
+- [Async notification worker](https://github.com/stranded-in-python/movix-notification-worker/tree/main/src)
+- [API for notifications](https://github.com/stranded-in-python/movix-notification-api/tree/main/src)
+
 ---
 ### Tools
 ![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
