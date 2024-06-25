@@ -3,29 +3,22 @@
 ### Contacts
 [![linkedin-badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/sergey-koltunov)
 [![gmail-badge](https://img.shields.io/badge/Gmail-white?style=for-the-badge)](mailto:sergey.koltunov.228@gmail.com)
-[![telegram-badge](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge)](https://t.me/serg_serg228)
-[![hh-badge](https://img.shields.io/badge/headhunter-red?style=for-the-badge)](https://hh.ru/applicant/resumes/view?resume=70f4a185ff0c80b5b20039ed1f7a7558383968)
+[![telegram-badge](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge)](https://hh.ru/resume/e6b0fbdeff08b47c450039ed1f746e54443552)
 ---
 
 ### About me
 - 🐍 I am Python Developer
-- 💼 Work as Data Engineer at PepsiCo
 - 💻 Highly enthusiastic about Free Software. EEF supporter. UNIX User
 
 
 ### Projects
-- [CRM](https://github.com/AntiWarCommittee/) written on Django during volunteering at NCO [The Ark](https://kovcheg.live/en/ark/). Allowed volunteers to manage students and foreign language teachers
+- [Biblus](https://github.com/yegres280/biblus) is the API for searching books and downloading them from TOR Network
+- [Improvised CRM](https://github.com/AntiWarCommittee/) written on Django during volunteering at NCO [The Ark](https://kovcheg.live/en/ark/). Allowed volunteers to manage students and foreign language teachers
 - [Online cinema](https://github.com/stranded-in-python/movix) developed with my teammates [Rahim](https://github.com/abdurahim-dag), [Viktor](https://github.com/Viktor-Gostyaikin), [Stanislav](https://github.com/SBKubric) during middle-developer [course](https://practicum.yandex.ru/middle-python/) by Yandex
 - [Advertisement Website](https://github.com/dogbusiness/craigav) written on Django
 - [To-do web app](https://github.com/dogbusiness/flask-todolist) written on Flask
 
 Note: CRM repository is no longer public. Sorry for inconvinience 😓
-
-### My fresh code examples
-These are last commited by me and primarly done by me
-- [API for UGC](https://github.com/stranded-in-python/movix-ugc/tree/main/src)
-- [Async notification worker](https://github.com/stranded-in-python/movix-notification-worker/tree/main/src)
-- [API for notifications](https://github.com/stranded-in-python/movix-notification-api/tree/main/src)
 
 ---
 ### Tools
@@ -37,7 +30,6 @@ These are last commited by me and primarly done by me
 ![mongo](https://img.shields.io/badge/mongo-salad.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 ![redis](https://img.shields.io/badge/redis%20-%23CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
-![Clickhouse](https://img.shields.io/badge/-Clickhouse-yellow?style=for-the-badge&logo=clickhouse&logoColor=white)
 ![docker](https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![nginx](https://img.shields.io/badge/nginx-green.svg?&style=for-the-badge&logo=nginx&logoColor=white)
 ![django](https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
@@ -48,4 +40,4 @@ These are last commited by me and primarly done by me
 ---
 
 ### Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=dogbusiness&show_icons=true&theme=tokyonight&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=yegres280&show_icons=true&theme=tokyonight&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
